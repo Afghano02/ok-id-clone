@@ -67,7 +67,7 @@ except Exception as e:
 	print('\x1b[1;95m[√] LOADING...')
 	os.system('clear')
 	
-prox=open('.prox.txt','r').read().splitlines()
+
 
 
 for xd in range(10000):
