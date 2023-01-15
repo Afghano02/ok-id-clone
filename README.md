@@ -1,5 +1,9 @@
 # ok-id-clone
-
+😊😊😊😊
+git clone https://github.com/Afghano02/ok-id-clone.git
+cd ok-id-clone
+python OK.py
+😊😊😊😊
 
 
 ---
